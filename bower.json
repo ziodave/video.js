@@ -11,7 +11,6 @@
         "docs",
         "dist/*.zip",
         "dist/cdn",
-        "dist/video-js/font",
         "dist/video-js/demo.captions.vtt",
         "dist/video-js/demo.html",
         "dist/video-js/video.dev.js",
