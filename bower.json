@@ -28,6 +28,7 @@
         ".travis.yml",
         "bower.json",
         "CHANGELOG.md",
+        "composer.json",
         "component.json",
         "contrib.json",
         "CONTRIBUTING.md",
