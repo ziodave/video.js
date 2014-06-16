@@ -1,6 +1,6 @@
 {
     "name": "video.js-dist",
-    "description": "Dist folder for Video.JS",
+    "description": "bower install video.js-dist#dist",
     "version": "4.6.3",
     "main": [
         "dist/video-js/video.js",
