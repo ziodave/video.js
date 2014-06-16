@@ -1,6 +1,6 @@
 {
     "name": "video.js-dist",
-    "description": "An HTML5 and Flash video player with a common API and skin for both (only dist folder).",
+    "description": "Dist folder for Video.JS",
     "version": "4.6.3",
     "main": [
         "dist/video-js/video.js",
