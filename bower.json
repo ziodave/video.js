@@ -1,16 +1,45 @@
 {
-  "name": "video.js",
-  "description": "An HTML5 and Flash video player with a common API and skin for both.",
-  "version": "4.6.3",
-  "main": [
-    "dist/video-js/video.js",
-    "dist/video-js/video-js.css"
-  ],
-  "keywords": [
-    "videojs",
-    "html5",
-    "flash",
-    "video",
-    "player"
-  ]
+    "name": "video.js-dist",
+    "description": "An HTML5 and Flash video player with a common API and skin for both (only dist folder).",
+    "version": "4.6.3",
+    "main": [
+        "dist/video-js/video.js",
+        "dist/video-js/video-js.css"
+    ],
+    "ignore": [
+        "build",
+        "docs",
+        "dist/cdn/**/*",
+        "dist/video-js/font",
+        "dist/video-js/demo.captions.vtt",
+        "dist/video-js/demo.html",
+        "dist/video-js/video.dev.js",
+        "dist/video-js/video-js.css",
+        "dist/video-js/video-js.less",
+        "node_modules",
+        "sandbox",
+        "src",
+        "test",
+        ".editorconfig",
+        ".gitignore",
+        ".jshintrc",
+        ".npmignore",
+        ".travis.yml",
+        "bower.json",
+        "CHANGELOG.md",
+        "component.json",
+        "contrib.json",
+        "CONTRIBUTING.md",
+        "Gruntfile.js",
+        "LICENSE",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "videojs",
+        "html5",
+        "flash",
+        "video",
+        "player"
+    ]
 }

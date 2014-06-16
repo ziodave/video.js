@@ -1,5 +1,4 @@
 .DS_Store
-dist/*
 build/files/*
 docs/api/*
 dev.html
@@ -22,3 +21,5 @@ sandbox/*
 
 *results.xml
 *.log
+
+.idea/
